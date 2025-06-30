@@ -1,8 +1,8 @@
 <h1 align="center">Yo, I'm cvrspark!</h1>
-
+<h3 align="center">Luv: knopochka(.ebalo_na_nol.)</h3>
 ###
 
-<p align="center">Developing discord bots/sites/games(unity), contact tg:@angxltearz</p>
+<p align="center">Developing discord bots/sites/games(unity), contact tg:@angxltearz,</p>
 
 ###
 
