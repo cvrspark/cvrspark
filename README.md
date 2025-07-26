@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center">Developing discord bots/sites/games(unity), contact tg:@angxltearz,</p>
+<p align="center">Developing discord bots/sites/games(unity), contact tg:@godtensa,</p>
 
 ###
 
